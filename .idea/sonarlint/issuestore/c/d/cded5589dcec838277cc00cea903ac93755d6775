@@ -1,0 +1,24 @@
+
+W
+java:S1118":Add a private constructor to hide the implicit public one.(Â™ô¤8ÎÒ¾ŠÉ0
+4
+java:S2178"Correct this "&" to "&&".(Æ²§éıÿÿÿÿ
+S	java:S106""9Replace this use of System.out or System.err by a logger.(ïüôÄşÿÿÿÿ
+S	java:S1061"9Replace this use of System.out or System.err by a logger.(ïüôÄşÿÿÿÿ
+G
+java:S2440;"%Remove this instantiation of "Queue".(øÙÇÕûÿÿÿÿ8„²¾ŠÉ0
+W
+java:S2209="5Change this instance-reference to a static reference.(ñ¥İıúÿÿÿÿ8úÿºŠÉ0
+R
+java:S2209>"5Change this instance-reference to a static reference.(•ƒïò8ûÿºŠÉ0
+W
+java:S2209?"5Change this instance-reference to a static reference.(ÔÎ³Øüÿÿÿÿ8üÿºŠÉ0
+N	java:S106A"9Replace this use of System.out or System.err by a logger.(ÒÕè¯
+N	java:S106D"9Replace this use of System.out or System.err by a logger.(¡¤Ÿ¼
+W
+java:S2209E"5Change this instance-reference to a static reference.(Ì Ş¹ùÿÿÿÿ8ıÿºŠÉ0
+Z	java:S106F"9Replace this use of System.out or System.err by a logger.(½Ãà”øÿÿÿÿ8ï×ÀŠÉ0
+W
+java:S2209F"5Change this instance-reference to a static reference.(½Ãà”øÿÿÿÿ8ÿÿºŠÉ0
+W
+java:S2209G"5Change this instance-reference to a static reference.(¥ìüÿÿÿÿ8‹²¾ŠÉ0

@@ -1,14 +1,12 @@
-package com.bridgelabz.linkedlist_simple;
+package com.linkedlist;
 
-public class LinkListUC {
+public class LinkedListSize {
     Node head;
 
     private  int size;              //Size: to check size of the list
-    LinkListUC(){
+    LinkedListSize(){
         this.size= 0;
     }
-
-
 
     class Node {
         int data;
@@ -106,38 +104,11 @@ public class LinkListUC {
 
 
     public static void main(String[] args) {
-        LinkListUC list = new LinkListUC();    //UC 1:Ability to create  simple Linked
+        LinkedListSize list = new LinkedListSize();
 
         list.addFirst(30);
-        list.addFirst(56);         //UC 2 :Ability to create Linked List by adding 30 and 56 to 70
-        list.printList();                        //   - LinkedList Sequence: 56->30->70
-        list.addLast(70);
+        list.addFirst(56);
         list.printList();
-
-
-        //UC4 : Ability to insert  30 between 56  and 70  Final Sequence: 56->30->70*
-
-
-
-        //UC 5: Ability to delete the first  element in the LinkedList of sequence 56->30->70
-        list.deleteFirst();
-        System.out.println("first data value  is removed from list");
-        list.printList();
-
-        //UC 6: Ability to delete the last element in the LinkedList of sequence 56->30->70
-        list.deleteLast();
-        System.out.println("last data value is  removed from list");
-        list.printList();
-
-
-        //Size: To find the size of the linked list
-        System.out.println("the size of the current list is :");
-        System.out.println(list.getSize());
-
-        System.out.println();
-        System.out.println("List available is");
-
-        list.addLast(56);
         list.addLast(70);
         list.printList();
 

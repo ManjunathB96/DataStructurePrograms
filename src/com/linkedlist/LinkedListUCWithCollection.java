@@ -1,4 +1,4 @@
-package com.bridgelabz.linkedlist_simple;
+package com.linkedlist;
 
 import java.util.*;
 

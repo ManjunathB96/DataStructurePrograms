@@ -1,0 +1,20 @@
+
+D
+java:S37405"/Provide the parametrized type for this generic.(†¿¶
+D
+java:S37405"/Provide the parametrized type for this generic.(†¿¶
+f
+java:S1104"PMake head a static final constant or non-public and provide accessors if needed.(¢—Ã 
+@
+java:S1444"*Make this "public static head" field final(¢—Ã 
+b	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(¢½ÈÉ
+e
+java:S11495"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(†¿¶
+U
+java:S1118":Add a private constructor to hide the implicit public one.(Îù”éýÿÿÿÿ
+e
+java:S11495"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(†¿¶
+M	java:S106:"9Replace this use of System.out or System.err by a logger.(Áþâb
+Z	java:S106<"9Replace this use of System.out or System.err by a logger.(…¬ßùÿÿÿÿÿ8ÀÅÜ‰É0
+U	java:S106>"9Replace this use of System.out or System.err by a logger.(ºêœÝ8û à‰É0
+Z	java:S106@"9Replace this use of System.out or System.err by a logger.(ƒåöûÿÿÿÿÿ8ƒÔà‰É0
